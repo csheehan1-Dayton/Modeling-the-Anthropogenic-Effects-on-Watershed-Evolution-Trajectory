@@ -1,0 +1,16 @@
+nlcd_value,legend,Percent Cover,Minimum C Factor,Maximum C Factor,Mean C Factor,Normalized Mean C Factor,Preferred C Factor,Normalized Prefered C Factor (Ci),Pre-industrial C Factor (C0),Notes
+11,Open Water,0.379961,0.0001,0.003,0.00155,1,0.00155,1,0.00155,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
+21,"Developed, Open Space",8.687906,0.0001,0.003,0.00155,1,0.00155,1,,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
+22,"Developed, Low Intensity",1.613375,0.0001,0.003,0.00155,1,0.00155,1,,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
+23,"Developed, Medium Intensity",0.756416,0.0001,0.003,0.00155,1,0.00155,1,,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
+24,"Developed, High Intensity",0.219092,0.0001,0.003,0.00155,1,0.00155,1,,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
+31,Barren Land,0.179342,0.1,0.5,0.3,193.5483871,0.38,245.1612903,,Range from Borrelli_C_Factor. Preferred value is the maximum other preferred value (Cultivated Crops). 
+41,Deciduous Forest,53.918864,0.0001,0.003,0.00155,1,0.00155,1,,Range from Borrelli_C_Factor. Preferred value is range mean. 
+42,Evergreen Forest,3.399076,0.0001,0.003,0.00155,1,0.00155,1,,Range from Borrelli_C_Factor. Preferred value is range mean. 
+43,Mixed Forest,21.42316,0.0001,0.003,0.00155,1,0.00155,1,,Range from Borrelli_C_Factor. Preferred value is range mean. 
+52,Shrub/Scrub,0.650494,0.01,0.15,0.08,51.61290323,0.08,51.61290323,,Range from Borrelli_C_Factor. Preferred value is range mean. 
+71,Herbaceuous,0.889344,0.01,0.15,0.08,51.61290323,0.08,51.61290323,,"Assummed to be the same as ""Shrub/Scrub"". "
+81,Hay/Pasture,7.764892,0.1,0.15,0.125,80.64516129,0.125,80.64516129,,"Range is the ""Mixed-legumes"" and ""Mixed-grasses"" values of the ""Forage, Fodder, and Straw of Cereal Grains Group"" from Borrelli_C_Factor. Preferred value is range mean."
+82,Cultivated Crops,0.025253,0.1,0.5,0.3,193.5483871,0.38,245.1612903,,"Range is the min/max of values on the ""Agricultural"" sheet of Borrelli_C_Factor. Preferred value is that of Cereal Grans: Maise since corn is the most common cereal crop."
+90,Woody Wetlands,0.084527,0.0001,0.003,0.00155,1,0.00155,1,,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
+95,Emergent Herbaceuous Wetlands,0.008301,0.0001,0.003,0.00155,1,0.00155,1,,Assummed to be the same as unaltered terrain (i.e. forest). Preferred value is range mean.
